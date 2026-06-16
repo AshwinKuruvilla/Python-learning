@@ -1,0 +1,8 @@
+name,age,score,city
+Ashwin,19.0,85.0,Chennai
+Rahul,20.0,72.0,Mumbai
+Priya,,91.0,Delhi
+Karan,21.0,,Chennai
+Sneha,19.0,78.0,Mumbai
+Amit,,65.0,
+Diya,22.0,,Delhi
